@@ -11,9 +11,16 @@
     {
       "name": "Third Party",
       "items": [
-        {"name":"xFeed","url":"https://xfeed.app/u/boyi","icon":"comment-quote-outline"},
         {"name":"xLog","url":"https://www.boyilu.com/","icon":"post"},
+        {"name":"xFeed","url":"https://xfeed.app/u/boyi","icon":"comment-quote-outline"},
         {"name":"xChar","url":"https://xchar.app/boyi","icon":"account-details-outline"}
+      ]
+    },
+    {
+      "name": "Favorite",
+      "items": [
+        {"name":"Yu Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
+        {"name":"Lao Gao YouTube","url":"https://www.youtube.com/@laogao","icon":"youtube"}
       ]
     }
   ],
@@ -21,10 +28,6 @@
     {
       "category": "Surfing",
       "links": [
-        {
-          "name": "Yu Blog",
-          "url": "https://www.pseudoyu.com"
-        },
         {
           "name": "YouTube",
           "url": "https://www.youtube.com"
