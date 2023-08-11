@@ -1,0 +1,52 @@
+{
+  "apps" : [
+    {
+      "name": "Self Hosted",
+      "items": [
+        {"name":"Boyi Blog","url":"https://www.boyilu.com/","icon":"post-outline"},
+        {"name":"Boyi Blog Data","url":"https://analytics.umami.is/share/Q3V1ypOg91PhCWip/Boyi-Blog","icon":"chart-areaspline"},
+        {"name":"ChatGPT","url":"https://chatgpt.boyilu.com/", "icon":"robot-confused-outline"}
+      ]
+    },
+    {
+      "name": "Third Party",
+      "items": [
+        {"name":"xFeed","url":"https://xfeed.app/u/boyi","icon":"comment-quote-outline"},
+        {"name":"xLog","url":"https://www.boyilu.com/","icon":"post"},
+        {"name":"xChar","url":"https://xchar.app/boyi","icon":"account-details-outline"}
+      ]
+    }
+  ],
+  "bookmarks" : [
+    {
+      "category": "Surfing",
+      "links": [
+        {
+          "name": "Yu Blog",
+          "url": "https://www.pseudoyu.com"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/"
+        },
+        {
+          "name": "HBO",
+          "url": "https://play.max.com/"
+        }
+      ]
+    },
+    {
+      "category": "Tool",
+      "links": [
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com"
+        }
+      ]
+    }
+  ]
+}
