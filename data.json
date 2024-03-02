@@ -5,7 +5,7 @@
       "items": [
         {"name":"Boyi Blog","url":"https://www.boyilu.com/","icon":"post-outline"},
         {"name":"Boyi Blog Data","url":"https://analytics.umami.is/share/Q3V1ypOg91PhCWip/Boyi-Blog","icon":"chart-areaspline"},
-        {"name":"ChatGPT","url":"https://chatgpt.boyilu.com/", "icon":"robot-confused-outline"}
+        {"name":"ChatGPT","url":"https://ai.boyilu.com/", "icon":"robot-confused-outline"}
       ]
     },
     {
